@@ -1,0 +1,30 @@
+==================== Tema 1 ========== Marketplace ====================
+
+Student: Gheorghe Adrian-Valentin
+Grupa: 331CB
+
+1. Organizare
+
+Tema are ca scop simularea unui marketplace bazat pe problema de multi-
+threading producer-consumer. Am folosit clasele definite in schelet si
+am protejat, protejand lock-uri, zonele critice din cod.
+
+Consider ca tema a fost utila deoarece necesita punerea in practica a 
+unui principiu foarte important din programare - multithreading-ul, dar
+si pentru familiarizarea cu limbajul python. In ceea ce priveste imple- 
+mentarea, hint-urile si comentariile din TODO-uri nu au lasat prea multe
+la latitudinea studentilor, ducand in mare parte intr-o singura directie.
+
+2. Implementare
+
+Am implementat toate TODO-urile din schelet, protejand zonele critice
+folosind lock(). 
+
+Dificultatile au venit in mare parte din partea de multithreading si
+de debug, insa nimic care sa fie imposibil de rezolvat.
+
+3. Bibliografie
+
+https://ocw.cs.pub.ro/courses/asc/laboratoare/01
+https://ocw.cs.pub.ro/courses/asc/laboratoare/02
+https://ocw.cs.pub.ro/courses/asc/laboratoare/03
